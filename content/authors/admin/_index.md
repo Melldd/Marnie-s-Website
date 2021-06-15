@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: https://people.wgtn.ac.nz/marnie.lloydd
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/marnielloydd?lang=en
@@ -58,7 +58,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://nz.linkedin.com/in/marnie-lloydd-59825093
-
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6131-5151
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
