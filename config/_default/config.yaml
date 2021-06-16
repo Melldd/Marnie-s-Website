@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Marnie Lloydd" # Website name
+title: "Dr Marnie Lloydd" # Website name
 baseurl: "https://marnielloydd.netlify.app/" # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
