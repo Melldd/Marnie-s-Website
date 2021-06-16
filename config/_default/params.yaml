@@ -25,7 +25,7 @@ email: marnie.lloydd@vuw.ac.nz
 address:
   street: Victoria University of Wellington
   city: Faculty of Law
-  region: PO Box 600
+  region: PO Box 600,
   postcode: 'Wellington 6140'
   country: New Zealand
   #country_code: US
