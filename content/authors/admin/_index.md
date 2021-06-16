@@ -27,13 +27,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD
+  - course: PhD, International Law
     institution: Melbourne Law School, Australia
     year: 2020
-  - course: LLM in International Law in Armed Conflict
+  - course: LLM, International Law in Armed Conflict
     institution: Geneva Academy of International Humanitarian Law and Human Rights, Switzerland
     year: 2014
-  - course: MA in International Humanitarian Assistance
+  - course: MA, International Humanitarian Assistance
     institution: Ruhr Universitaet Bochum, Germany
     year: 2003
   - course: Admission as Barrister & Solicitor of the High Court of New Zealand
