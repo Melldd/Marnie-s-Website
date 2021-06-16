@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Marnie Lloydd
+title: Marnie Lloydd
 
 # Is this the primary user of the site?
 superuser: true
@@ -36,6 +36,9 @@ education:
   - course: MA in International Humanitarian Assistance
     institution: Ruhr Universitaet Bochum, Germany
     year: 2003
+  - course: Admission as a Barrister & Solicitor of the High Court of New Zealand
+    #institution:
+    year: 2000
   - course: BA (Linguistics) / LL.B.(Hons)
     institution: Victoria University of Wellington
     year: 1999 
