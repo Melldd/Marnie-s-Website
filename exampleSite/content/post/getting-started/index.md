@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: New Zealand-born ISIS bride detained in Turkey
+subtitle: RNZ, Lately with Karyn Hay, 16 February 2021
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Prime Minister Jacinda Ardern has lashed out at Australia for dumping responsibility for a woman and two young children detained at the Turkish border on New Zealand. The 26-year-old detainee - described by the Turkish government as an Islamic State terrorist - was caught trying to enter Turkey illegally from Syria. Karyn speaks with Dr Marnie Lloydd who is a lecturer in the Faculty of Law at Victoria University of Wellington.
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Photo: AFP / Anadolu Agency'
   focal_point: ""
   placement: 2
   preview_only: false
