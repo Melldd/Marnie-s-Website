@@ -19,9 +19,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 80
-  - name: Teaching
-    url: '#teaching'
-    weight: 60
+  #- name: Teaching
+  #  url: '#teaching'
+  #  weight: 60
   - name: Media  
     url: '#media'
     weight: 65
