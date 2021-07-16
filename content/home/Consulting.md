@@ -37,6 +37,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
 ---
-Add some content about my consulting here
+I have worked as an independent consultant for international humanitarian organisations concerning international humanitarian law and protection, and as an Editor for related academic work.

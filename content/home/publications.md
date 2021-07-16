@@ -20,13 +20,13 @@ content:
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  order: asc
   # Filter on criteria
   filters:
-    tag: ''
-    category: ''
+    tag: 'Law that Happens ‘Out There’: Aotearoa/New Zealand’s Interaction with International Humanitarian Law and International Criminal Law'
+    category: '(2021)'
     publication_type: ''
-    author: ''
+    author: 'admin'
     exclude_featured: true
 design:
   # Choose a view for the listings:
