@@ -14,7 +14,7 @@ organizations:
   url: https://www.wgtn.ac.nz
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include international law and policy related to armed conflict, counterterrorism, and international humanitarian action.
+bio: Marnie Lloydd (Victoria University of Wellington) specialises in international law and policy related to armed conflict, counterterrorism, forced migration and international humanitarian action.
 
 # Interests to show in About widget
 interests:
@@ -23,6 +23,8 @@ interests:
 - Humanitarian Action
 - Counterterrorism
 - Foreign Fighting
+- Forced Migration
+- Statelessness
 
 # Education to show in About widget
 education:
@@ -67,9 +69,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
